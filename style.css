@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+}
+
+.dropdown-heading:hover {
+    text-decoration: underline;
+    color: rgb(9, 4, 86);
+}
+
+.navbar-nav {
+    width: 100%;
+    justify-content: center;
+}
+
+/* marque styling */
+.behaviour {
+    background-color: cadetblue;
+    color: white
+}
+
+.btn_submit {
+    background-color: cadetblue;
+
+}
